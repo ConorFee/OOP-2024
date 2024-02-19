@@ -39,6 +39,8 @@ public class Arrays extends PApplet
 		}
 	}
 
+	
+
 	public void settings()
 	{
 		size(500, 500);
